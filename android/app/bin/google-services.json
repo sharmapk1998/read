@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181749393848",
+    "firebase_url": "https://read-pro-default-rtdb.firebaseio.com",
+    "project_id": "read-pro",
+    "storage_bucket": "read-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181749393848:android:90ca8d831bca6d8e65474d",
+        "android_client_info": {
+          "package_name": "com.readpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181749393848-r596clg71ie06rmg4sftf69afi81rjkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiV3Hfzb1gNUmBv0blKPbZt4cU4dWG9jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181749393848-r596clg71ie06rmg4sftf69afi81rjkn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181749393848-8t3evee7o44c3a8qbdtgr7avavp6tkto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ReadPro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

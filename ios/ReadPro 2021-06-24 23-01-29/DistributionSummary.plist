@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ReadPro.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>210C65B7B00AC2C7A9DBA310DBA8CCB8E94DD55A</string>
+				<key>dateExpires</key>
+				<string>07/05/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9X2K96D2YR.com.ify.ReadPro</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9X2K96D2YR</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ReadPro.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>90989e43-1e10-4b6e-aabf-af351a37572f</string>
+				<key>name</key>
+				<string>Read Pro Distribution</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9X2K96D2YR</string>
+				<key>name</key>
+				<string>ITS FOR YOU PRIVATE LIMITED</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
